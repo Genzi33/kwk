@@ -12,8 +12,8 @@ from pyfiglet import Figlet
 import re
 
 # banner
-|.wkwkwkkwkw |
-| wkwkwkwkkw |
+|.wkwkwkwkwk |
+| wkwkwkwkwk |
 |________________|
 
 FAGHP = ("""
