@@ -12,7 +12,7 @@ from pyfiglet import Figlet
 import re
 
 # banner
-|.KNTL KNTL      |
+|.wkwkwkkwkw |
 | wkwkwkwkkw |
 |________________|
 
